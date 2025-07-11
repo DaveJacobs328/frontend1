@@ -1,12 +1,12 @@
 import React from 'react';
 
-function App() {
+const App = () => {
   return (
     <div>
       <h1>AI Trading Dashboard</h1>
-      <p>Version 4 frontend is running properly.</p>
+      <p>Welcome to your AI-powered meme coin + stock trader.</p>
     </div>
   );
-}
+};
 
 export default App;
